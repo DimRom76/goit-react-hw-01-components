@@ -14,8 +14,9 @@ function Statistics({ stats }) {
 
   return <ul className={s.stats}>{statRender}</ul>;
 }
-export default Statistics;
 
 Statistics.propTypes = {
   stats: PropTypes.objectOf(PropTypes.number),
 };
+
+export default Statistics;

@@ -1,0 +1,17 @@
+.description {
+  border: 1px solid grey;
+  padding-top: 10px;
+}
+
+.avatar {
+  width: 200px;
+  height: auto;
+  border-radius: 80px; /* Радиус скругления */
+  border: 3px solid blueviolet; /* Параметры рамки */
+  box-shadow: 0 0 7px #666; /* Параметры тени */
+}
+
+.name {
+  font-size: 24px;
+  color: blueviolet;
+}

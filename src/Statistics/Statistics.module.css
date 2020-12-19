@@ -1,0 +1,10 @@
+.statistics {
+  width: 400px;
+  margin-top: 30px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+.title {
+  background-color: #fff;
+}
