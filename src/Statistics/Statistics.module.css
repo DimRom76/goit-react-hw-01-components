@@ -1,6 +1,8 @@
 .statistics {
-  width: 400px;
+  display: inline-block;
+  margin-left: 20px;
   margin-top: 30px;
+  margin-bottom: 30px;
   text-align: center;
   border: 1px solid #ccc;
 }

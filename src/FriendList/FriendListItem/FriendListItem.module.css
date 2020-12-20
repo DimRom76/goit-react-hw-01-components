@@ -1,0 +1,36 @@
+.item {
+  display: flex;
+  background-color: tomato;
+  justify-content: left;
+  align-items: center;
+
+  height: 100px;
+  margin-bottom: 15px;
+  border-radius: 10px; /* Радиус скругления */
+  box-shadow: 0 0 7px; /* Параметры тени */
+}
+
+.status {
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  margin-left: 20px;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.avatar {
+  margin-left: 10px;
+}
+
+.name {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 32px;
+}
